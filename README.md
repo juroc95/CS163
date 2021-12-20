@@ -1,4 +1,4 @@
-# CS163
+# Data Structures
 
 CS 163 Data Structures
 
